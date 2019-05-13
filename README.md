@@ -1,4 +1,4 @@
 # DG-Level-1 
-DG Level 1 Eindopdracht 
-V0.1 
-Author : Robin Kok 
+DG Level 1 Eindopdracht <br />
+V0.1 <br />
+Author : Robin Kok <br />
