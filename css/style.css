@@ -50,3 +50,19 @@ body {
     border: none;
     cursor: pointer;
 }
+
+.header {
+    padding: 40px;
+    background: aliceblue;
+    color: cornflowerblue;
+    font-size: 30px;
+}
+
+.header img {
+    float: left;
+}
+
+.header h1 {
+    width: 500px;
+    margin-left: 200px;
+}
