@@ -55,7 +55,7 @@ body {
     padding: 40px;
     background: aliceblue;
     color: cornflowerblue;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .header img {
@@ -65,4 +65,36 @@ body {
 .header h1 {
     width: 500px;
     margin-left: 200px;
+}
+
+.gaming {
+    background-color: lightskyblue;
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.lifestyle {
+    background-color: lightskyblue;
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.fashion {
+    background-color: lightskyblue;
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.lorem {
+    background-color: aliceblue;
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
+    padding: 1px;
 }
