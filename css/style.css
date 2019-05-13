@@ -1,8 +1,6 @@
 body {
-    background-color: blanchedalmond;
-}
-
-p {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+    background-image: url(../images/achtergrond_forum.jpg);
+    background-color: cornflowerblue;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
