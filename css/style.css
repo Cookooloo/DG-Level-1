@@ -98,3 +98,13 @@ body {
     font-size: 20px;
     padding: 1px;
 }
+
+.new {
+    float: right;
+    padding-top: 28px;
+}
+
+.new button {
+    padding: 20px;
+    font-size: 21px;
+}
